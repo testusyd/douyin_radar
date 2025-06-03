@@ -1,9 +1,6 @@
 # douyin_radar
 [2025-06-03] 抖音限流小雷达，抖音限流检测工具，自己业余用MFC写的一个工具，谨慎参考。
 
-https://github.com/testusyd/douyin_radar/releases/tag/%E6%8A%96%E9%9F%B3%E9%99%90%E6%B5%81%E5%B0%8F%E9%9B%B7%E8%BE%BE
-
-https://github.com/testusyd/douyin_radar/releases/download/%E6%8A%96%E9%9F%B3%E9%99%90%E6%B5%81%E5%B0%8F%E9%9B%B7%E8%BE%BE/douyin_radar_v5.1.20.zip
 
 
 一、打开douyin_radar软件目录，运行douyin_radar.exe即可。
@@ -53,5 +50,14 @@ https://github.com/testusyd/douyin_radar/releases/download/%E6%8A%96%E9%9F%B3%E9
 	        10.账号Dou+状态 -> 检测字段 : with_douplus_entry
 	 
 	 		如果为 false，检查账号是否因过去的未知原因，导致的被无法进行Dou+投流的异常，你的个别视频可能存在过违规记录，被限制投流和限制推荐。
+
+
+Release版本 5.1.20
+    
+https://github.com/testusyd/douyin_radar/releases/tag/%E6%8A%96%E9%9F%B3%E9%99%90%E6%B5%81%E5%B0%8F%E9%9B%B7%E8%BE%BE
+
+https://github.com/testusyd/douyin_radar/releases/download/%E6%8A%96%E9%9F%B3%E9%99%90%E6%B5%81%E5%B0%8F%E9%9B%B7%E8%BE%BE/douyin_radar_v5.1.20.zip
+
+
     
 ![抖音限流检测](使用说明/使用说明.png "抖音限流检测")
