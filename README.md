@@ -1,6 +1,11 @@
 # douyin_radar
 [2025-06-03] 抖音限流小雷达，抖音限流检测工具，自己业余用MFC写的一个工具，谨慎参考。
 
+https://github.com/testusyd/douyin_radar/releases/tag/%E6%8A%96%E9%9F%B3%E9%99%90%E6%B5%81%E5%B0%8F%E9%9B%B7%E8%BE%BE
+
+https://github.com/testusyd/douyin_radar/releases/download/%E6%8A%96%E9%9F%B3%E9%99%90%E6%B5%81%E5%B0%8F%E9%9B%B7%E8%BE%BE/douyin_radar_v5.1.20.zip
+
+
 一、打开douyin_radar软件目录，运行douyin_radar.exe即可。
 
 
